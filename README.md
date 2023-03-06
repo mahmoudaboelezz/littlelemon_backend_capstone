@@ -1,1 +1,2 @@
-ABOELEZZ DJANGO LITTLE LEMON
+/api/bookings/
+/api/registration/
